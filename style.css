@@ -24,7 +24,7 @@ h2{
 main{
     text-align: center;
     border-radius: 5px black ;
-    background-color: beige     ;
+    background-color: rgb(0, 0, 0)     ;
     
 }
 a {
@@ -34,11 +34,11 @@ a {
     border: 5px 5px 5px 5px;
     font-family: "phil";
     font-size: large;
-    color: rgba(3, 3, 3, 0.842) ;
+    color: rgb(255, 255, 255) ;
 }
 a:hover{
    
-    background-color: #ffd9009f;
+    background-color: #7bfa5bb4;
     text-decoration:none;
 }
 p{
