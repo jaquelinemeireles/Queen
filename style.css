@@ -34,11 +34,11 @@ a {
     border: 5px 5px 5px 5px;
     font-family: "phil";
     font-size: large;
-    color: rgb(248, 241, 241) ;
+    color: rgba(3, 3, 3, 0.842) ;
 }
 a:hover{
    
-    background-color: #000000d5;
+    background-color: #ffd9009f;
     text-decoration:none;
 }
 p{
